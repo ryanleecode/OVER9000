@@ -1,0 +1,3 @@
+[submodule "submodules/alpha-homora-v2"]
+	path = submodules/alpha-homora-v2
+	url = https://github.com/AlphaFinanceLab/alpha-homora-v2-contract.git
